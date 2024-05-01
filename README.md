@@ -1,7 +1,7 @@
 
 # ArrowBetweenNodes
 
-ArrowBetweenNodes is a React component designed to draw arrows between two HTML elements, indicating a directional relationship. This component is particularly useful in scenarios where you need to visually represent connections between nodes, such as in flow diagrams or organizational charts.
+flow-chart-arrow is a React component designed to draw arrows between two HTML elements, indicating a directional relationship. This component is particularly useful in scenarios where you need to visually represent connections between nodes, such as in flow diagrams or organizational charts.
 
 ## Installation
 
@@ -13,7 +13,7 @@ npm install flow-chart-arrow
 
 ## Usage
 
-To use ArrowBetweenNodes in your React application, import it and include it in your JSX markup, providing the necessary props:
+To use flow-chart-arrow in your React application, import it and include it in your JSX markup, providing the necessary props:
 
 ```jsx
 import React from "react";
@@ -35,6 +35,7 @@ const MyComponent = () => {
 
 export default MyComponent;
 ```
+![image](https://github.com/receperis/flow-chart-arrow/assets/66521672/fceb5895-e3fe-4fad-a824-e28461583cdb)
 
 ## Props
 
