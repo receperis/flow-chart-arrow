@@ -1,7 +1,7 @@
 
 # ArrowBetweenNodes
 
-flow-chart-arrow is a React component designed to draw arrows between two HTML elements, indicating a directional relationship. This component is particularly useful in scenarios where you need to visually represent connections between nodes, such as in flow diagrams or organizational charts.
+flow-chart-arrow is a simple React component designed to draw arrows between two HTML elements, indicating a directional relationship. This component is particularly useful in scenarios where you need to visually represent connections between nodes, such as in flow diagrams or organizational charts.
 
 ## Installation
 
